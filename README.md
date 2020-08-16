@@ -9,4 +9,4 @@ included with standard Linux, Microsoft Windows and Mac OS X installs of Python.
 
 SQLite is a C library that provides a lightweight disk-based database that doesn’t require a separate server process and allows accessing the database using a nonstandard variant of the SQL query language. Some applications can use SQLite for internal data storage. It’s also possible to prototype an application using SQLite and then port the code to a larger database such as PostgreSQL or Oracle.
 
-In this code it is your decision to start with frontend part or the backend part first. But I strongly recommend to make the frontend first.  
+In this code it is your decision to start with frontend part or the backend part first. But I strongly recommend to make the frontend first.  The output of the frontend is shown in the frontend_part.png
